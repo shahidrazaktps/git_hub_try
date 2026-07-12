@@ -1,4 +1,4 @@
 a=12;
-b=12;
-sum=a+b;
+c=13;
+sum=a+c;
 print(sum);
